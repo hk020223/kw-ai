@@ -1,0 +1,7 @@
+streamlit
+requests
+beautifulsoup4
+langchain-google-genai
+langchain-community
+langchain-core
+pypdf
